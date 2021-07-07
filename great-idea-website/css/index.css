@@ -64,3 +64,161 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.navigation {
+	width: auto;
+	height: 35px;
+	margin: 20px 20px 0px 20px;
+	padding: 5px;
+	border: 5px;
+}
+nav{
+	text-align: left;
+	display: inline-block;
+	height:25px;
+	padding:2px;
+	border: 5px;
+	margin: none;
+	font-size: 15px;
+	word-spacing: 100px;
+}
+.logo{
+	float:right;
+	width:auto;
+	height:30px;
+	
+	
+}
+
+.head{
+	height: 500px;
+	width:auto;
+	border:0px 0px 5px 0px block black;
+	padding: 50px 50px 50px 50px;
+	margin: 20px;
+}
+
+.head h1{
+	
+	font-size: 100px;
+	font-style: oblique;
+	text-align: center;
+	padding: none;
+	border: 2px;
+	display: inline-block;
+	width:52%;
+	height:70%;
+	
+}
+.head h1 .button{
+	font-size: 15px;
+	width: 150px;
+	height: 50px;
+	border: 3px solid black;
+	text-align: center;
+	padding: 10px;
+	display: inline-block;
+	margin: 0px;
+	bottom: 0;
+	left:0;
+}
+
+.headImg {
+	height:400px;
+	width: 38%;
+	float:right;
+	padding:2px;
+	margin: 5px;
+	border:2px;
+
+    
+	
+}
+.topContent{
+	width: auto;
+	height: 125px;
+	border:5px;
+	padding: 0px 0px 0px 0px;
+	margin: 20px;
+}
+.topContent .p1{
+	 height: 100%;
+	 width: 48%;
+	 margin:5px;
+	 float: left;
+	
+}
+.topContent .p2{
+	float: right;
+	width: 48%;
+	height: 100px;
+}
+h3{
+	text-align: left;
+}
+.middle-img{
+	width: 1260px;
+	border:5px;
+	padding: 0px 0px 0px 0px;
+	margin: 20px;
+}
+
+.bottomContent{
+	width: auto;
+	height: 200px;
+	border:5px;
+	padding: 0px 0px 0px 0px;
+	margin: 20px;
+}
+.bottomContent .p3{
+	 height: 100%;
+	 width: 32%;
+	 margin:5px;
+	 float: left;
+	
+}
+.bottomContent .p4{
+	display: inline-block;
+	width: 32%;
+	height: 200px;
+	margin: 5px
+}
+.bottomContent .p5{
+	float: right;
+	
+	width: 32%;
+	height: 200px;
+	margin: 5px;
+}
+.contact{
+	width: auto;
+	height: 200px;
+	text-align: left;
+	margin: 10px;
+
+}
+.contact h4 {
+	font-style: oblique;
+	margin:10px 0px 10px 0px;
+
+}
+.address{
+	margin: 0px 0px 10px 0px;
+
+}
+.number{
+	margin: 0px 0px 10px 0px;
+}
+.email{
+	margin: 0px 0px 10px 0px;
+}
+.copyright {
+	width: auto;
+	text-align: center;
+	margin:  0px 0px 60px 0px;
+}
+
+body{
+	width: 1260px;
+	margin: 0 auto;
+}
